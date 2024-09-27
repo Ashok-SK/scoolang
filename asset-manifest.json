@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/scoolang/static/css/main.aa4fa526.chunk.css",
-    "main.js": "/scoolang/static/js/main.632967d8.chunk.js",
-    "main.js.map": "/scoolang/static/js/main.632967d8.chunk.js.map",
+    "main.js": "/scoolang/static/js/main.385b380e.chunk.js",
+    "main.js.map": "/scoolang/static/js/main.385b380e.chunk.js.map",
     "runtime~main.js": "/scoolang/static/js/runtime~main.e0c5d929.js",
     "runtime~main.js.map": "/scoolang/static/js/runtime~main.e0c5d929.js.map",
     "static/css/2.f73cb1d8.chunk.css": "/scoolang/static/css/2.f73cb1d8.chunk.css",
@@ -11,7 +11,7 @@
     "static/js/3.271f9524.chunk.js": "/scoolang/static/js/3.271f9524.chunk.js",
     "static/js/3.271f9524.chunk.js.map": "/scoolang/static/js/3.271f9524.chunk.js.map",
     "index.html": "/scoolang/index.html",
-    "precache-manifest.9152b9fdbb1df49c22232ef100505e57.js": "/scoolang/precache-manifest.9152b9fdbb1df49c22232ef100505e57.js",
+    "precache-manifest.658bba383d1545a58e329dc41104b0af.js": "/scoolang/precache-manifest.658bba383d1545a58e329dc41104b0af.js",
     "service-worker.js": "/scoolang/service-worker.js",
     "static/css/2.f73cb1d8.chunk.css.map": "/scoolang/static/css/2.f73cb1d8.chunk.css.map",
     "static/css/main.aa4fa526.chunk.css.map": "/scoolang/static/css/main.aa4fa526.chunk.css.map",

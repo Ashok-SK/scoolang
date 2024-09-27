@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "22abf70fdefcf212cf6a73c71d9da00f",
+    "revision": "992b38edb761786e239c30555a477d33",
     "url": "/scoolang/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/scoolang/static/css/2.f73cb1d8.chunk.css"
   },
   {
-    "revision": "3b0e694654cd4c17eed1",
+    "revision": "96c13faa430382659533",
     "url": "/scoolang/static/css/main.aa4fa526.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/scoolang/static/js/3.271f9524.chunk.js"
   },
   {
-    "revision": "3b0e694654cd4c17eed1",
-    "url": "/scoolang/static/js/main.632967d8.chunk.js"
+    "revision": "96c13faa430382659533",
+    "url": "/scoolang/static/js/main.385b380e.chunk.js"
   },
   {
     "revision": "582d5fc0ddd6e29497bb",
